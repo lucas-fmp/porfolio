@@ -1,0 +1,88 @@
+        h1 {
+            font-family: Play, sans-serif;
+            text-align: center;
+        }
+
+        #descricao, #habilidades, .links, h4 {
+            font-family: Play, sans-serif;
+        }
+
+        body {
+            background-color: #EAEAEA;
+            padding: 3%;
+        }
+
+        .det {
+            font-size: 25px;
+            line-height: 25px;
+        }
+
+        .comp {
+            font-size: 22px;
+            line-height: 25px;
+        }
+
+        .disc {
+            font-size: 19px;
+            line-height: 25px;
+        }
+
+        .res {
+            font-size: 16px;
+            line-height: 25px;
+        }
+
+        #descricao {
+            font-size: 20px;
+            line-height: 25px;
+            position: absolute;
+            top: 10%;
+            right: 10%;
+            left: 30%;    
+        }
+
+        #foto {
+            padding: 5px;
+            background-color: #444140;
+            float: left;
+            width: 307px;
+        }
+
+        body {
+            color: white;
+            background-color: #1E1E24;
+        }
+
+        ul {
+            list-style:square;
+            
+        }
+
+        #lista1 li a {
+            text-decoration: none;
+            color: white;
+        }
+
+        #lista1 li a:hover {
+            font-weight: 700;
+            color: gray;
+        }
+
+        .links {
+            text-decoration: none;
+            color: white;
+        }
+
+        .links:hover {
+            font-weight: 700;
+            color: gray;
+        }
+
+        #lista2 li:nth-child(odd) {
+            text-decoration: underline;
+        }
+
+        #image-container {
+            height: 420px;
+            position: relative;
+        }
